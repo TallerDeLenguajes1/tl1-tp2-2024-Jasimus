@@ -1,0 +1,1 @@
+f) No puedo ver el archivo tp2_1_2.c, porque a este archivo lo creamos en la rama Opcion_2. Comprobé viendo el explorador de archivos de windows y moviéndome entre ramas del repositorio, que los archivos que cree en la rama Opcion_2 desaparecen cuando me muevo a la rama main, y vuelven a aparecer si vuelvo a la rama Opcion_2.
