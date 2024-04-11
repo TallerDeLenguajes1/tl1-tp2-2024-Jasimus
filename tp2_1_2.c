@@ -18,4 +18,5 @@ int main()
 
 >>>>>>> Opcion_2
 	return 0;
+
 }
