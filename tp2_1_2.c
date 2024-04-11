@@ -13,5 +13,9 @@ int main()
 		*(p + i) = 1 + rand() % 100;
 		printf("%d ", *(p + i));
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> Opcion_2
 	return 0;
 }
