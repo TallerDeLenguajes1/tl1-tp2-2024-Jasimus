@@ -13,4 +13,5 @@ int main()
 		*(p + i) = 1 + rand() % 100;
 		printf("%d ", *(p + i));
 	}
+	return 0;
 }
