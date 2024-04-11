@@ -2,3 +2,5 @@ f) No puedo ver el archivo tp2_1_2.c, porque a este archivo lo creamos en la ram
 
 La diferencia que noto es que: antes el commit "primer commit" se mostraba a la par de la rama main, pero ahora se muestra a la par de la rama remotes/origin/main. Ahora a la par de la rama main está el último commit que hice dentro de esa rama. A la vez, la rama main subió por encima de la rama Opcion_2.
 También, las lineas que conectan las ramas main y Opcion_2 a la rama remotes/origin/main son rojas, y están separadas.
+
+Después de hacer el merge, se crea una conexión entre la rama main y la rama Opcion_2, aparece una linea negra que conecta la rama main al punto en donde hice el último commit en Opcion_2 antes del merge.
